@@ -13,8 +13,5 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Salidas generadas
-outputs/figures/*.png
-
 # Sistema
 .DS_Store
